@@ -17,7 +17,7 @@ I am a Lecturer (Assistant Professor) in Politics at the Department of European 
 </div>
 <p style="text-align:center; font-size:0.9em; color:#666;"><em>This is from the TV show Platonic and it's a reference to Proposition 22 (about which I have written).</em></p>
 
-My research and writing have been published in *Perspectives on Politics*, the *Journal of Comparative Politics*, *Regulation&Governance*, and *Renewal. A Journal of Social Democracy*. I have been featured on Channel 4, The Conversation, El País, and UK in a Changing Europe.
+My research and writing have been published in *Perspectives on Politics*, the *Journal of Comparative Politics*, *Regulation&Governance*, and *Renewal. A Journal of Social Democracy*. I have been featured on Channel 4, The Conversation, El Paris, and UK in a Changing Europe.
 
 My research agenda has been supported by KCL's Global Engagement Partnership Fund, the EIS Departmental Research Fund, the LSE Seed Fund, CIVICA, the Mercatus Center, and the Institute for Humane Studies. I am a member of the Geoeconomics and Technology Initiative and the Centre for Digital Culture at King's College London.
 
