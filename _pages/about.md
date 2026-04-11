@@ -17,7 +17,7 @@ redirect_from:
 </div>
 <p style="text-align:center; font-size:0.9em; color:#666;"><em>This is from the TV show Platonic and it's a reference to Proposition 22 (about which I have written).</em></p>
 
-<p>My research and writing have been published in <em>Perspectives on Politics</em>, the <em>Journal of Comparative Politics</em>, <em>Regulation&amp;Governance</em>, and <em>Renewal. A Journal of Social Democracy</em>. I have been featured on Channel 4, The Conversation, El Pa&#237;s, and UK in a Changing Europe.</p>
+<p>My research and writing have been published in <em>Perspectives on Politics</em>, <em>Government and Opposition</em>, the <em>Journal of Comparative Politics</em>, <em>Regulation&amp;Governance</em>, and <em>Renewal. A Journal of Social Democracy</em>. I have been featured on Channel 4, The Conversation, El Pa&#237;s, and UK in a Changing Europe.</p>
 
 <p>My research agenda has been supported by KCL's Global Engagement Partnership Fund, the EIS Departmental Research Fund, the LSE Seed Fund, CIVICA, the Mercatus Center, and the Institute for Humane Studies. I am a member of the Geoeconomics and Technology Initiative and the Centre for Digital Culture at King's College London.</p>
 
