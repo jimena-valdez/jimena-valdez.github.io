@@ -27,8 +27,8 @@ author:
   name             : ""
   pronouns         : # example: "she/her"  
   bio              : # Short biography (optional)
-  location         : # location
-  employer         : # employer
+  location         : "London, UK"
+  employer         : "King's College London"
   uri              : # URL
   email            : "jimena.valdez@kcl.ac.uk" 
 
