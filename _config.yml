@@ -24,9 +24,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Jimena Valdez"
+  name             : ""
   pronouns         : # example: "she/her"  
-  bio              : "Lecturer in Politics, King's College London"
+  bio              : "<span style='display:block;text-align:center;'>Lecturer in Politics<br>King's College London</span>"
   location         : "London, UK"
   employer         : "King's College London"
   uri              : # URL
