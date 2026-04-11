@@ -21,6 +21,6 @@ redirect_from:
 
 <p>My research agenda has been supported by KCL's Global Engagement Partnership Fund, the EIS Departmental Research Fund, the LSE Seed Fund, CIVICA, the Mercatus Center, and the Institute for Humane Studies. I am a member of the Geoeconomics and Technology Initiative and the Centre for Digital Culture at King's College London.</p>
 
-<p>Prior to coming to King's College London, I was a Lecturer at City, University of London and a Fellow in European and Comparative Political Economy at the London School of Economics and Political Science. I received my Ph.D. in Government from Cornell University in 2020, a M.A. in Political Science from the University Torcuato Di Tella in 2011 and a B.A. in Economics from the University of Buenos Aires in 2007.</p>
+<p>Prior to coming to King's College London, I was a Lecturer at City, University of London and a Fellow in European and Comparative Political Economy at the London School of Economics and Political Science. I received a Ph.D. in Government from Cornell University in 2020, a M.A. in Political Science from the University Torcuato Di Tella in 2011 and a B.A. in Economics from the University of Buenos Aires in 2007.</p>
 
 </div>
