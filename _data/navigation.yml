@@ -1,10 +1,10 @@
 # Main links that appear in the top navigation bar
 main:
   - title: "Home"
-      url: /
-        - title: "Research"
-            url: /research/
-              - title: "Teaching"
-                  url: /teaching/
-                    - title: "CV and Contact"
-                        url: /cv/
+    url: /
+  - title: "Research"
+    url: /research/
+  - title: "Teaching"
+    url: /teaching/
+  - title: "CV and Contact"
+    url: /cv/
