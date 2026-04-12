@@ -41,3 +41,10 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* Fix sidebar padding-top so profile is not pushed down behind masthead */
+@media screen and (min-width: 1024px) {
+  .sidebar {
+    padding-top: 1em !important;
+  }
+}
