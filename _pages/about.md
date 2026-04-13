@@ -10,7 +10,7 @@ redirect_from:
 
 <div style="font-size:0.85em;">
 
-<p>I am a Lecturer (Assistant Professor) in Politics at the Department of European and International Studies at King's College London. I work on business and labor politics, with a focus on the platform economy. I am particularly interested in questions of business power, workers' rights and their capacity for organization.</p>
+<p>I am a Lecturer (Assistant Professor) in Politics at the Depatment of European and International Studies at King's College London. I work on business and labor politics, with a focus on the platform economy. I am particularly interested in questions of business power, workers' rights and their capacity for organization. I also study the political economy of Southern Europe.</p>
 
 <div style="display:flex; flex-direction:row; gap:1em; margin:1.2em 0;">
   <img src="/images/platonic-s2-2.png" alt="Platonic season 2 scene 2" style="width:50%; height:auto;">
